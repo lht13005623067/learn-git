@@ -1,0 +1,14 @@
+/run BuyMerchantItem(1,20)
+/run BuyMerchantItem(2,20)
+/run BuyMerchantItem(3,20)
+/run BuyMerchantItem(4,20)
+/run BuyMerchantItem(5,20)
+/run BuyMerchantItem(6,20)
+/run BuyMerchantItem(7,20)
+/run BuyMerchantItem(8,20)
+/run BuyMerchantItem(9,20)
+/run BuyMerchantItem(10,20)
+
+
+for i=1,10,1 do
+BuyMerchantItem(10,20)
